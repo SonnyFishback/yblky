@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+}
+
+
+.bd-example { 
+    margin-top: 40px;
+}
+
+.shopttitle{ 
+    color: maroon;
+}
+
+.footerlink a {
+
+    color: maroon;
+}
+
+.oftheweek {
+
+    margin: auto;
+    margin-bottom: 20px;
+    
+
+}
+
+.oftheweek a:hover {
+
+    color: maroon;
+
+}
+
+.oftheweek a {
+
+    color: rgba(128, 0, 0, 0.452);
+   
+
+}
+
+.buttonmargin {
+
+    margin-top: 60px;
+    margin-left: 10px;
+
+}
+
+span {
+
+    color: maroon;
+    
+}
