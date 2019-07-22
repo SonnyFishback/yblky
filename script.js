@@ -15,7 +15,20 @@ if (cartItems.length < 1 ){
     cart.style.display = "default";
 };
 
+
+// this function controls the "myCart" and makes it appear for shoppers (Who add to the cart) and it does not appear
+// for people who are not shopping.
+
+
+function myFunction() {
+    cartItems.push(1);
+
+    if (cartItems.length < 0 ){
+        document.getElementById("cartIcon").style.display = "none";
+    }else {
+        document.getElementById("cartIcon").style.display = "inline";
+    };
+    
+
+};
 // end of cart code
-
-// this code is inteded allow you to add items to the cart.
-
