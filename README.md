@@ -1,6 +1,6 @@
 # YouthBuild Louisville Student site (Work in progress)
 
-[YBLKY](sonnyfishback.github.io/yblky/) is a website created to help [YouthBuild Louisville](http://yblky.org/) students connect with each other, connect with the community, and connect with YouthBuild's across the world. This project was my first website and my final project to graduate from  [Code Louisville](https://codelouisville.org/) in May 2019.
+[YBLKY](https://sonnyfishback.github.io/yblky/) is a website created to help [YouthBuild Louisville](http://yblky.org/) students connect with each other, connect with the community, and connect with YouthBuild's across the world. This project was my first website and my final project to graduate from  [Code Louisville](https://codelouisville.org/) in May 2019.
 
 
 ## Forking and Contributing
